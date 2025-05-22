@@ -1,4 +1,4 @@
-# -QueryBuddy-the-Database-Chatbot
+# QueryBuddy-the-Database-Chatbot
 QueryBuddy is an AI-powered database chatbot that enables users to interact with their databases using natural language. Built using LangChain, Retrieval-Augmented Generation (RAG), and Streamlit, it translates user questions into executable queries, executes them securely, and returns results in a clean tabular format—perfect for analysts, developers, and non-technical stakeholders.
 
 <h2>🔧 Features</h2>
