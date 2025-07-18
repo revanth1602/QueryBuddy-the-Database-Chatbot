@@ -1,0 +1,12 @@
+langchain-core==0.1.36
+groq
+mysql-connector-python==8.3.0
+bson==0.5.10
+streamlit
+langchain>=0.1.0
+langchain-community>=0.0.14
+langchain-groq
+# openai
+pymysql
+sqlalchemy
+pymongo
